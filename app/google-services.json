@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "470519274478",
+    "firebase_url": "https://ebird-b60b6-default-rtdb.firebaseio.com",
+    "project_id": "ebird-b60b6",
+    "storage_bucket": "ebird-b60b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470519274478:android:a00fa3de8d9e8b01c34cff",
+        "android_client_info": {
+          "package_name": "com.example.hickingtrail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470519274478-7jb918s4vpgrphbmer4ig6nha9fcjuku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzAbrKdpEWlQmVX0OvL4boIqeCfNDCVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470519274478-7jb918s4vpgrphbmer4ig6nha9fcjuku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470519274478:android:668f82271065b612c34cff",
+        "android_client_info": {
+          "package_name": "com.fyp.e_birds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470519274478-7jb918s4vpgrphbmer4ig6nha9fcjuku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzAbrKdpEWlQmVX0OvL4boIqeCfNDCVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470519274478-7jb918s4vpgrphbmer4ig6nha9fcjuku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
